@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fa99c60.css",
-    "main.js": "/static/js/main.cb87f4b9.js",
-    "static/media/garden.png": "/static/media/garden.5b79c216bef223e97411.png",
-    "static/media/NoN.png": "/static/media/NoN.3219f7d6e78cc363bcc7.png",
-    "static/media/dwarf.png": "/static/media/dwarf.4651e47b0264ae562eec.png",
-    "index.html": "/index.html",
-    "main.8fa99c60.css.map": "/static/css/main.8fa99c60.css.map",
-    "main.cb87f4b9.js.map": "/static/js/main.cb87f4b9.js.map"
+    "main.css": "/Final_Project_Telran/static/css/main.8fa99c60.css",
+    "main.js": "/Final_Project_Telran/static/js/main.20f9a795.js",
+    "static/media/garden.png": "/Final_Project_Telran/static/media/garden.5b79c216bef223e97411.png",
+    "static/media/NoN.png": "/Final_Project_Telran/static/media/NoN.3219f7d6e78cc363bcc7.png",
+    "static/media/dwarf.png": "/Final_Project_Telran/static/media/dwarf.4651e47b0264ae562eec.png",
+    "index.html": "/Final_Project_Telran/index.html",
+    "main.8fa99c60.css.map": "/Final_Project_Telran/static/css/main.8fa99c60.css.map",
+    "main.20f9a795.js.map": "/Final_Project_Telran/static/js/main.20f9a795.js.map"
   },
   "entrypoints": [
     "static/css/main.8fa99c60.css",
-    "static/js/main.cb87f4b9.js"
+    "static/js/main.20f9a795.js"
   ]
 }
