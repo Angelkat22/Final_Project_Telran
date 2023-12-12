@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fa99c60.css",
+    "main.js": "/static/js/main.cb87f4b9.js",
+    "static/media/garden.png": "/static/media/garden.5b79c216bef223e97411.png",
+    "static/media/NoN.png": "/static/media/NoN.3219f7d6e78cc363bcc7.png",
+    "static/media/dwarf.png": "/static/media/dwarf.4651e47b0264ae562eec.png",
+    "index.html": "/index.html",
+    "main.8fa99c60.css.map": "/static/css/main.8fa99c60.css.map",
+    "main.cb87f4b9.js.map": "/static/js/main.cb87f4b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa99c60.css",
+    "static/js/main.cb87f4b9.js"
+  ]
+}
